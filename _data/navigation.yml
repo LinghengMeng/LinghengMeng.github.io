@@ -13,6 +13,10 @@
 main:
   - title: "Biography"
     url: /biography/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"

@@ -11,8 +11,12 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 main:
-  - title: "More Info"
+  - title: "Biography"
     url: /biography/
+  - title: "Research"
+    url: /research/
+  - title: "Publication"
+    url: /publication/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
