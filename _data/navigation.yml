@@ -11,7 +11,7 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 main:
-  - title: "More Info About Lingheng"
+  - title: "More Info"
     url: /docs/quick-start-guide/
   - title: "Posts"
     url: /year-archive/
