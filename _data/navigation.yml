@@ -12,7 +12,7 @@
   #   url: /sitemap/
 main:
   - title: "More Info"
-    url: /docs/quick-start-guide/
+    url: /docs/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
