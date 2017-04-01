@@ -80,7 +80,7 @@ author:
   name             : "Lingheng Meng"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a graduate student majoring in Computer Science & Technology."
-  location         : "China"
+  location         : "Xuzhou, China"
   email            : "LinghengMeng@yahoo.com"
   uri              : "https://linghengmeng.github.io/"
   bitbucket        :
@@ -246,7 +246,7 @@ defaults:
       related: true
    excerpt: "This post should [...]"
    header:
-      overlay_image: /assets/images/head-picture.jpg
+      overlay_image: "/assets/images/head-picture.jpg"
       overlay_filter: rgba(255, 0, 0, 0.5)
       caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
       cta_label: "More Info"
