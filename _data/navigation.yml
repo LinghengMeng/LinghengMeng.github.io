@@ -11,8 +11,8 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 main:
-  - title: "More Info"
-    url: /portfolio/
+  - title: "Biography"
+    url: /biography/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
