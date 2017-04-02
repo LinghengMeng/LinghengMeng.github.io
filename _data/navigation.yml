@@ -2,7 +2,7 @@
 
 main:
   - title: "Home Page"
-    url: /homepage/
+    url: https://linghengmeng.github.io/
   - title: "Biography"
     url: /biography/
   - title: "Research"
