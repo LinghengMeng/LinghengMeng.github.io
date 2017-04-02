@@ -1,5 +1,5 @@
 ---
-#layout: single
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: ture
@@ -13,14 +13,14 @@ header:
 #excerpt: "Computational Cognitive Neurocience."
 ---
 ## Journal Papers ##
-- **Lingheng Meng**, Shifei Ding, “The Research of Stacked Denoising Sparse Autoencoder.” Neural Computing and Applications. (Accepted)
-- Shifei Ding, **Lingheng Meng**, Youzhen Han, Yu Xue, “A Review on Feature Binding Theory and Its Applications in Perceptual Learning.” Submitted to Cognitive Computation. (Accepted)
-- **Lingheng Meng**, Shifei Ding, and Yu Xue. "Research on denoising sparse autoencoder." International Journal of Machine Learning and Cybernetics (2016):1-11. (Published Online)
+- **Lingheng Meng**, Shifei Ding, “The Research of Stacked Denoising Sparse Autoencoder.” Neural Computing and Applications. (Accepted) [Link](https://link.springer.com/article/10.1007/s00521-016-2790-x)
+- Shifei Ding, **Lingheng Meng**, Youzhen Han, Yu Xue, “A Review on Feature Binding Theory and Its Applications in Perceptual Learning.” Cognitive Computation (2017) 9: 194-206.   [Link](https://link.springer.com/article/10.1007/s12559-016-9446-0)
+- **Lingheng Meng**, Shifei Ding, and Yu Xue. "Research on denoising sparse autoencoder." International Journal of Machine Learning and Cybernetics (2016):1-11. (Published Online) [Link](https://link.springer.com/article/10.1007%2Fs13042-016-0550-y)
 - **Lingheng Meng** and Shifei Ding, “Research on Depth Perceptual Model Based on Single Image.” Journal of Shandong University (Engineering Science), 46(3) (2016):37-43. (in Chinese)
 - Hongjie Jia, Shifei Ding, **Lingheng Meng** and Shuyan Fan, "A density-adaptive affinity propagation clustering algorithm based on spectral dimension reduction." Neural Computing & Applications 25.7-8(2014):1557-1567.
 
 ## Conference Papers ##
-
+- 
 ## Posters ##
 - **Lingheng Meng**, “3D Scene Perception System Based on Single Static Image “, on The 12th China Workshop on Machine Learning and Applications, Xian, China. 2014.
 
