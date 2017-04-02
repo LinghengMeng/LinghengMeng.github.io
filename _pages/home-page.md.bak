@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Machine Learning"
   - image_path: /assets/images/home_page_artificial_intelligence_image.jpg
     alt: "Artificial Intelligence image "
-    title: "Artificial Intelligence"
+    #title: "Artificial Intelligence"
     excerpt: "Artificial Intelligence"
     url: /research/
     btn_label: "Read More"

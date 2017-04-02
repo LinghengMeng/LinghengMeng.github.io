@@ -2,39 +2,10 @@
 title: "Home Page"
 layout: single
 permalink: /homepage/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/head-picture.jpg
-  #cta_label: "Download"
-  #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Computational Cognitive Neurocience"
-excerpt: "Computational Cognitive Neurocience."
 
-
-intro: 
-  - excerpt: 'My research interests are Machine Learning, Artificial Intelligence, and Computational Cognitive Neuroscience.'
-feature_row:
-  - image_path: assets/images/home_page_machine_learning_image.jpg
-    alt: "Machine Learning image"
-    #title: "Machine Learning"
-    excerpt: "Machine Learning"
-  - image_path: /assets/images/home_page_artificial_intelligence_image.jpg
-    alt: "Artificial Intelligence image "
-    #title: "Artificial Intelligence"
-    excerpt: "Artificial Intelligence"
-    url: /research/
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/home_page_computational_cognitive_neuroscience_image.jpg
-    alt: "Computational Cognitive Neuroscience image "
-    #title: "Computational Cognitive Neuroscience"
-    excerpt: "Computational Cognitive Neuroscience"
 
     
 ---
 
-{% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
 
