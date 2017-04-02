@@ -11,4 +11,5 @@ author_profile: ture
   {% for post in site.biography %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
+<p>I born in China.</p>
 </div>

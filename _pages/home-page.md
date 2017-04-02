@@ -10,34 +10,6 @@ header:
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Computational Cognitive Neurocience"
 excerpt: "Computational Cognitive Neurocience."
----
-
-<h3 class="archive__subtitle">Research Interests</h3>
-
-<p>My research interests are Machine Learning, Artificial Intelligence, and Computational Cognitive Neuroscience.</p>
-
-<!--
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
-
-
--->
----
-title: "Home Page"
-layout: single
-permalink: /homepage/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/head-picture.jpg
-  #cta_label: "Download"
-  #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Computational Cognitive Neurocience"
-excerpt: "Computational Cognitive Neurocience."
 
 
 intro: 
