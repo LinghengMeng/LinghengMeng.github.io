@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/head-picture.jpg
   #cta_label: "Download"
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  #caption: "Computational Cognitive Neurocience"
-#excerpt: "Computational Cognitive Neurocience."
+  caption: "Computational Cognitive Neurocience"
+excerpt: "Computational Cognitive Neurocience."
 ---
 
 {% include base_path %}
