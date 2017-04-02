@@ -1,0 +1,33 @@
+---
+#layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: ture
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/head-picture.jpg
+  #cta_label: "Download"
+  #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  #caption: "Computational Cognitive Neurocience"
+#excerpt: "Computational Cognitive Neurocience."
+---
+## Journal Papers ##
+- **Lingheng Meng**, Shifei Ding, “The Research of Stacked Denoising Sparse Autoencoder.” Neural Computing and Applications. (Accepted)
+- Shifei Ding, **Lingheng Meng**, Youzhen Han, Yu Xue, “A Review on Feature Binding Theory and Its Applications in Perceptual Learning.” Submitted to Cognitive Computation. (Accepted)
+- **Lingheng Meng**, Shifei Ding, and Yu Xue. "Research on denoising sparse autoencoder." International Journal of Machine Learning and Cybernetics (2016):1-11. (Published Online)
+- **Lingheng Meng** and Shifei Ding, “Research on Depth Perceptual Model Based on Single Image.” Journal of Shandong University (Engineering Science), 46(3) (2016):37-43. (in Chinese)
+- Hongjie Jia, Shifei Ding, **Lingheng Meng** and Shuyan Fan, "A density-adaptive affinity propagation clustering algorithm based on spectral dimension reduction." Neural Computing & Applications 25.7-8(2014):1557-1567.
+
+## Conference Papers ##
+
+## Posters ##
+- **Lingheng Meng**, “3D Scene Perception System Based on Single Static Image “, on The 12th China Workshop on Machine Learning and Applications, Xian, China. 2014.
+
+
+## Patents ##
+- **Lingheng Meng**, Fenggang Li, Lei Zhang, A Wireless Monitoring and Reporting Device for Intravenous Infusion, CN103893858A (2014) (in Chinese)
+
+
+
+
