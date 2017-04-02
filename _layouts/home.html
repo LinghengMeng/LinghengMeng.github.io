@@ -2,11 +2,34 @@
 title: "Home Page"
 layout: single
 permalink: /homepage/
+
+intro: 
+  - excerpt: 'My research interests are Machine Learning, Artificial Intelligence, and Computational Cognitive Neuroscience.'
+feature_row:
+  - image_path: assets/images/home_page_machine_learning_image.jpg
+    alt: "Machine Learning image"
+    #title: "Machine Learning"
+    excerpt: "Machine Learning"
+  - image_path: /assets/images/home_page_artificial_intelligence_image.jpg
+    alt: "Artificial Intelligence image "
+    #title: "Artificial Intelligence"
+    excerpt: "Artificial Intelligence"
+    url: /research/
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/home_page_computational_cognitive_neuroscience_image.jpg
+    alt: "Computational Cognitive Neuroscience image "
+    #title: "Computational Cognitive Neuroscience"
+    excerpt: "Computational Cognitive Neuroscience"
 ---
 
-<h3 class="archive__subtitle">Research Interests</h3>
+{% include feature_row id="intro" type="center" %}
 
-<p>My research interests are Machine Learning, Artificial Intelligence, and Computational Cognitive Neuroscience.</p>
+{% include feature_row %}
+
+<!-- <h3 class="archive__subtitle">Research Interests</h3>
+
+<p>My research interests are Machine Learning, Artificial Intelligence, and Computational Cognitive Neuroscience.</p> -->
 
 <!--
 
