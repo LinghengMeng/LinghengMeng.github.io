@@ -20,7 +20,8 @@ header:
 - Hongjie Jia, Shifei Ding, **Lingheng Meng** and Shuyan Fan, "A density-adaptive affinity propagation clustering algorithm based on spectral dimension reduction." Neural Computing & Applications 25.7-8(2014):1557-1567. [Link](https://link.springer.com/article/10.1007/s00521-014-1628-7)
 
 ## Conference Papers ##
-- 
+
+
 ## Posters ##
 - **Lingheng Meng**, “3D Scene Perception System Based on Single Static Image “, on The 12th China Workshop on Machine Learning and Applications, Xian, China. 2014.
 
