@@ -23,19 +23,24 @@ feature_row:
     excerpt: "Computational Cognitive Neuroscience"
 ---
 
-<!-- <h3 class="archive__subtitle">Research Interests</h3>
+<!-- {% include feature_row id="intro" type="center" %}
 
-<p>My research interests are Machine Learning, Artificial Intelligence, and Computational Cognitive Neuroscience.</p> -->
+{% include feature_row %} -->
 
-<!--
+<h3 class="archive__subtitle">Personal Motto</h3>
 
-{% for post in paginator.posts %}
+<p>One prospers in worries and hardships, and perishes in ease and comfort.<br>
+(&#x751F;&#x4E8E;&#x5FE7;&#x60A3;&#x6B7B;&#x4E8E;&#x5B89;&#x4E50;)</p>
+
+
+
+<!-- {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
-{% include paginator.html %}
+{% include paginator.html %} -->
 
 
--->
+
 
 

@@ -1,5 +1,5 @@
 ---
-#layout: home
+layout: home
 author_profile: true
 header:
   overlay_color: "#000"
@@ -22,12 +22,13 @@ feature_row:
     #title: "Artificial Intelligence"
     excerpt: "Artificial Intelligence"
     url: /research/
-    btn_label: "Read More"
+    btn_label: "Research Interests"
     btn_class: "btn--inverse"
   - image_path: /assets/images/home_page_computational_cognitive_neuroscience_image.jpg
     alt: "Computational Cognitive Neuroscience image "
     #title: "Computational Cognitive Neuroscience"
     excerpt: "Computational Cognitive Neuroscience"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
