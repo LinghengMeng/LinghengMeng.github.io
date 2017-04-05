@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lingheng Meng"
+  name             : "Jack Lingheng Meng"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a graduate student majoring in Computer Science & Technology."
   location         : "Xuzhou, China"
@@ -261,4 +261,3 @@ defaults:
     excerpt: "This post should [...]"
     header:
       image: /assets/images/head-picture.jpg
-
