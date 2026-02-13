@@ -1,0 +1,143 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Lingheng Meng
+  given: Lingheng
+  family: Meng
+  alternate: '孟令恒'
+postnominals:
+  - PhD
+status:
+  icon: "🤖"
+role: CERC Postdoctoral Fellow
+bio: |
+  Robotics and human-robot interaction researcher advancing human-centered
+  robot learning through deep reinforcement learning, preference learning,
+  and adaptive interactive systems. My work spans from foundational RL theory
+  to real-world deployment, including a museum installation with 60,000+
+  public visitors.
+
+affiliations:
+  - name: CSIRO Data61
+    url: https://www.csiro.au/en/about/people/business-units/data61
+  - name: Monash University
+    url: https://www.monash.edu/engineering/departments/ecse
+
+links:
+  - icon: at-symbol
+    url: mailto:lingheng.meng@data61.csiro.au
+    label: Email
+  - icon: academicons/google-scholar
+    url: https://scholar.google.ca/citations?user=ieZQPZEAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/LinghengMeng
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-9419-5774
+
+interests:
+  - Human-Robot Interaction
+  - Deep Reinforcement Learning
+  - Preference Learning (RLHF)
+  - Imitation Learning & Inverse RL
+  - Robot Learning for Assistive Robotics
+  - Interactive & Adaptive Robotic Systems
+
+education:
+  - degree: PhD Electrical & Computer Engineering
+    institution: University of Waterloo
+    start: 2017-09-01
+    end: 2023-05-29
+    summary: |
+      Thesis: "Learning to Engage: An Application of Deep Reinforcement Learning in Living Architecture Systems."
+      Advisors: Prof. Dana Kulic and A/Prof. Rob Gorbet.
+  - degree: M.Eng. Computer Science and Technology
+    institution: China University of Mining and Technology
+    start: 2014-09-01
+    end: 2017-05-29
+    summary: |
+      Thesis: "Research on Autoencoder and Its Application."
+      Advisor: Prof. Shifei Ding.
+  - degree: B.Eng. Computer Science and Technology
+    institution: China University of Mining and Technology
+    start: 2010-09-01
+    end: 2014-06-23
+    summary: |
+      Graduated as Outstanding Graduate. GPA: 3.79/4.0, Rank: 5/165.
+
+experience:
+  - role: CERC Postdoctoral Fellow
+    org: CSIRO Data61
+    start: 2024-04-16
+    summary: |
+      Conducting research in Human-Robot Interaction and Robot Learning.
+      Supervisors: Dr. Leimin Tian, Dr. David Howard, Prof. Dana Kulic.
+  - role: Adjunct Lecturer
+    org: Monash University
+    start: 2024-08-19
+    summary: |
+      Research and teaching in the Faculty of Engineering.
+      Co-supervising 2 PhD students and multiple FYP teams.
+  - role: Postdoctoral Research Fellow
+    org: Monash University
+    start: 2023-08-10
+    end: 2024-04-15
+    summary: |
+      Robot learning infrastructure at Monash Robotics.
+      Supervisors: Prof. Dana Kulic and Dr. Michael Burke.
+  - role: PhD Candidate & Research Assistant
+    org: University of Waterloo
+    start: 2017-09-01
+    end: 2023-05-29
+    summary: |
+      Deep reinforcement learning for interactive systems.
+      Advisors: Prof. Dana Kulic and A/Prof. Rob Gorbet.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python / PyTorch
+        level: 5
+      - label: Isaac Lab / Isaac Sim
+        level: 4
+      - label: ROS / ROS2
+        level: 4
+      - label: C++
+        level: 3
+  - name: Research Skills
+    items:
+      - label: Reinforcement Learning
+        level: 5
+      - label: Robot Manipulation
+        level: 4
+      - label: Academic Writing
+        level: 5
+      - label: Experiment Design
+        level: 5
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 5
+    label: Fluent
+
+awards:
+  - title: DAAD AI-Net Fellowship - Human Centered AI
+    awarder: DAAD (German Academic Exchange Service)
+    date: "2023-10-15"
+    summary: Postdoctoral fellowship for AI research collaboration with University of Stuttgart.
+    icon: hero/trophy
+  - title: David Johnston International Experience Awards
+    awarder: University of Waterloo
+    date: "2022-09-07"
+    icon: hero/academic-cap
+  - title: S.P. Pasupalak Scholarship in Robotics and AI
+    awarder: University of Waterloo
+    date: "2021-08-03"
+    icon: hero/academic-cap
+  - title: Doctoral Thesis Completion Award
+    awarder: University of Waterloo
+    date: "2022-01-05"
+    icon: hero/academic-cap
