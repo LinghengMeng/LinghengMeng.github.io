@@ -6,7 +6,7 @@ authors:
 - me
 - Anca Blidaru
 - Philip Beesley
-- Dana Kulic
+- Dana Kulić
 - Ikuo Mizuuchi
 date: "2018-08-01T00:00:00Z"
 publication_types: ["paper-conference"]

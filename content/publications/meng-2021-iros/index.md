@@ -3,7 +3,7 @@ title: "Memory-based Deep Reinforcement Learning for POMDPs"
 authors:
 - me
 - Rob Gorbet
-- Dana Kulic
+- Dana Kulić
 date: "2021-09-01T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "In *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)*, Prague, Czech Republic"

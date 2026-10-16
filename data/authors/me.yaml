@@ -8,21 +8,23 @@ name:
   alternate: '孟令恒'
 postnominals:
   - PhD
-status:
-  icon: "🤖"
 role: CERC Postdoctoral Fellow
 bio: |
-  Robotics and human-robot interaction researcher advancing human-centered
-  robot learning through deep reinforcement learning, preference learning,
-  and adaptive interactive systems. My work spans from foundational RL theory
-  to real-world deployment, including a museum installation with 60,000+
-  public visitors.
+  I am a CSIRO Early Research Career (CERC) Postdoctoral Fellow at CSIRO
+  Technology and an Adjunct Lecturer in Electrical and Computer Systems
+  Engineering at Monash University. My research asks how to make robots that
+  learn from and act alongside people robust and trustworthy in real-world
+  deployment. I work on deep reinforcement
+  learning, preference learning, and human-robot interaction, applied to
+  manipulation, legged locomotion, and assistive robotics. I received my PhD
+  from the University of Waterloo in 2023.
 
 affiliations:
   - name: CSIRO Technology
     url: https://www.csiro.au
   - name: Monash University
     url: https://www.monash.edu/engineering/departments/ecse
+  - name: lingheng.meng [at] csiro.au
 
 links:
   - icon: academicons/google-scholar
@@ -45,28 +47,24 @@ interests:
 education:
   - degree: Visiting PhD Student, Electrical and Computer Systems Engineering
     institution: Monash University
-    start: 2022-01-01
-    end: 2023-05-01
+    start: "2022–2023"
     summary: |
-      Continued PhD thesis research. Adviser: Prof. Dana Kulic.
+      Continued PhD thesis research. Adviser: Prof. Dana Kulić.
   - degree: PhD Electrical & Computer Engineering
-    institution: University of Waterloo
-    start: 2017-09-01
-    end: 2023-05-29
+    institution: "University of Waterloo. Advisors: Prof. Dana Kulić and A/Prof. Rob Gorbet"
+    start: "2017–2023"
     summary: |
       Thesis: "Learning to Engage: An Application of Deep Reinforcement Learning in Living Architecture Systems."
-      Advisors: Prof. Dana Kulic and A/Prof. Rob Gorbet.
+      Advisors: Prof. Dana Kulić and A/Prof. Rob Gorbet.
   - degree: M.Eng. Computer Application Technology
     institution: China University of Mining and Technology
-    start: 2014-09-01
-    end: 2017-05-29
+    start: "2014–2017"
     summary: |
       Thesis: "Research on Autoencoder and Its Application."
       Advisor: Prof. Shifei Ding.
   - degree: B.Eng. Computer Science and Technology
     institution: China University of Mining and Technology
-    start: 2010-09-01
-    end: 2014-06-23
+    start: "2010–2014"
     summary: |
       Graduated as Outstanding Graduate. GPA: 3.79/4.0, Rank: 5/165.
 
@@ -76,7 +74,7 @@ experience:
     start: 2024-04-16
     summary: |
       Conducting research in Human-Robot Interaction and Robot Learning.
-      Supervisors: Dr. Leimin Tian, Dr. David Howard, Prof. Dana Kulic.
+      Fellowship supervisor: Prof. Dana Kulić. Line manager: Dr. Leimin Tian.
   - role: Adjunct Lecturer
     org: Monash University
     start: 2024-08-19
@@ -89,20 +87,20 @@ experience:
     end: 2024-04-15
     summary: |
       Robot learning infrastructure at Monash Robotics.
-      Supervisors: Prof. Dana Kulic and Dr. Michael Burke.
+      Supervisors: Prof. Dana Kulić and Dr. Michael Burke.
   - role: Visitor
     org: Monash University
     start: 2023-05-01
     end: 2023-07-31
     summary: |
-      Road Safety Innovation Fund project. Host: Prof. Dana Kulic.
+      Road Safety Innovation Fund project. Host: Prof. Dana Kulić.
   - role: PhD Candidate & Research Assistant
     org: University of Waterloo
     start: 2017-09-01
     end: 2023-05-29
     summary: |
       Deep reinforcement learning for interactive systems.
-      Advisors: Prof. Dana Kulic and A/Prof. Rob Gorbet.
+      Advisors: Prof. Dana Kulić and A/Prof. Rob Gorbet.
 
 skills:
   - name: Technical Skills

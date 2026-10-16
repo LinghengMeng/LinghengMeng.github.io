@@ -4,7 +4,7 @@ authors:
 - me
 - Rob Gorbet
 - Michael Burke
-- Dana Kulic
+- Dana Kulić
 date: "2026-07-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Neural Networks*, vol. 199, p. 108521"

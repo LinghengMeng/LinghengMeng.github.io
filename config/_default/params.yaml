@@ -13,10 +13,10 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     name: "Lingheng Meng"
-    organization: "CSIRO Data61"
+    organization: "CSIRO Technology"
     type: person
     tagline: "Robotics & Human-Robot Interaction Researcher"
-    description: "Dr. Lingheng Meng - CERC Postdoctoral Fellow at CSIRO Data61, Adjunct Lecturer at Monash University. Research in Human-Robot Interaction, Deep Reinforcement Learning, and Preference Learning."
+    description: "Dr. Lingheng Meng - CERC Postdoctoral Fellow at CSIRO Technology, Adjunct Lecturer at Monash University. Research in Human-Robot Interaction, Deep Reinforcement Learning, and Preference Learning."
     social:
       twitter: ""
 
@@ -26,14 +26,14 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: light
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#1f3a5f"                # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "#1f3a5f"
+      neutral: "slate"                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -54,7 +54,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-    font: "native"
+    font: "serif"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
     size: "md"
 
@@ -64,7 +64,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   layout:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
+    radius: "sm"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "comfortable"
     # Avatar shape in author profiles
@@ -85,7 +85,7 @@ hugoblox:
     # Feature toggles
     search: true
     theme_toggle: true
-    theme_picker: true
+    theme_picker: false
     language_switcher: false
     # Call-to-action button
     cta:

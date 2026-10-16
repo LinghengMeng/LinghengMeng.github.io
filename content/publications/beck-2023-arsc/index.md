@@ -3,7 +3,7 @@ title: "Detecting Near-Miss Events with Cyclists Using Computer Vision Approache
 authors:
 - Ben Beck
 - Tharindu Rathnayake
-- Dana Kulic
+- Dana Kulić
 - Mingjie Li
 - me
 - Zijue Chen

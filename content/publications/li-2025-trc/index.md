@@ -8,7 +8,7 @@ authors:
 - Zijue Chen
 - Akansel Cosgun
 - Xiaojun Chang
-- Dana Kulic
+- Dana Kulić
 date: "2025-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Transportation Research Part C: Emerging Technologies*, vol. 174, p.105112"

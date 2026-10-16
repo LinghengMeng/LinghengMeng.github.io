@@ -6,7 +6,7 @@ authors:
 - Adam Francey
 - Rob Gorbet
 - Philip Beesley
-- Dana Kulic
+- Dana Kulić
 date: "2021-02-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*ACM Transactions on Human-Robot Interaction (THRI)*, vol. 10, no. 1, pp. 1-29"

@@ -3,7 +3,7 @@ title: "The Effect of Multi-step Methods on Overestimation in Deep Reinforcement
 authors:
 - me
 - Rob Gorbet
-- Dana Kulic
+- Dana Kulić
 date: "2021-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "In *25th International Conference on Pattern Recognition (ICPR 2020)*, Milan, Italy"

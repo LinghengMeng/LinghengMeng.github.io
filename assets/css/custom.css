@@ -1,0 +1,99 @@
+/* Academic look: classic serif body text, headings in the same family */
+html, body, button, input, select, textarea {
+  font-family: Georgia, "Times New Roman", Times, "Songti SC", serif !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Times New Roman", Times, "Songti SC", serif !important;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+/* Flat cards with a thin border instead of drop shadows */
+.shadow, .shadow-md, .shadow-lg, .shadow-xl, .shadow-sm {
+  box-shadow: none !important;
+}
+.shadow, .shadow-md, .shadow-lg, .shadow-xl, .shadow-sm {
+  border: 1px solid #d9dee5;
+}
+
+/* Markdown blocks (Research, Teaching, Contact): wider than the theme's
+   65-character default, and a more modest font size than prose-xl */
+div.max-w-prose:has(> .prose) {
+  max-width: 62rem !important;
+}
+.prose {
+  width: 100% !important;
+  max-width: 62rem !important;
+  font-size: 1.125rem !important;
+  line-height: 1.75 !important;
+}
+
+/* Publications list and its heading: same column width as the other blocks */
+div.container.max-w-3xl:has(.view-citation) {
+  max-width: 59rem !important; /* 62rem minus the 1.5rem side padding the text blocks have */
+}
+div.max-w-prose:not(:has(> .prose)) {
+  max-width: 62rem !important;
+}
+
+/* Profile block: less empty space above the photo, and summary text as wide as the cards below it */
+.resume-biography {
+  padding-top: 3rem !important;
+  padding-bottom: 1rem !important;
+}
+.resume-biography .prose,
+.resume-biography .bio-text {
+  max-width: none !important;
+}
+
+/* Education: one compact row per degree instead of tall cards */
+.resume-biography .grid.md\:grid-cols-2 {
+  grid-template-columns: 1fr !important;
+  gap: 0 !important;
+}
+.resume-biography .grid.md\:grid-cols-2 > div {
+  background: none !important;
+  border: 0 !important;
+  border-bottom: 1px solid #e3e7ec !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0.6rem 0 !important;
+  height: auto !important;
+}
+.resume-biography .grid.md\:grid-cols-2 > div > .flex > .flex-shrink-0 {
+  display: none; /* decorative cap icon */
+}
+.resume-biography .grid.md\:grid-cols-2 > div > .flex > .flex-1 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 1rem;
+}
+.resume-biography .grid.md\:grid-cols-2 > div p {
+  margin: 0 !important;
+}
+.resume-biography .grid.md\:grid-cols-2 > div p:nth-of-type(1) { /* degree */
+  order: 1;
+  font-size: 1.05rem !important;
+  flex: 1 1 60%;
+}
+.resume-biography .grid.md\:grid-cols-2 > div p:nth-of-type(3) { /* institution */
+  order: 2;
+  flex: 1 1 100%;
+  font-size: 0.95rem !important;
+}
+.resume-biography .grid.md\:grid-cols-2 > div p:nth-of-type(2) { /* years */
+  order: 1;
+  font-size: 0.95rem !important;
+  white-space: nowrap;
+}
+
+/* The theme gives every section 6rem above and below (12rem between two sections). */
+.hbb-section {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+/* Publications: the theme adds a large top margin (mt-16 / sm:mt-20) above the list */
+div.container.max-w-3xl:has(.view-citation) {
+  margin-top: 0 !important;
+}
