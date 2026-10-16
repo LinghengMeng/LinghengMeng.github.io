@@ -9,7 +9,7 @@ authors:
 - Dana Kulic
 date: "2021-02-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*ACM Transactions on Human-Robot Interaction (THRI)*, vol. 10, no. 5, pp. 1-29"
+publication: "*ACM Transactions on Human-Robot Interaction (THRI)*, vol. 10, no. 1, pp. 1-29"
 hugoblox:
   ids:
     doi: "10.1145/3408876"
