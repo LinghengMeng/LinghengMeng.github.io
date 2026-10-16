@@ -19,15 +19,12 @@ bio: |
   public visitors.
 
 affiliations:
-  - name: CSIRO Data61
-    url: https://www.csiro.au/en/about/people/business-units/data61
+  - name: CSIRO Technology
+    url: https://www.csiro.au
   - name: Monash University
     url: https://www.monash.edu/engineering/departments/ecse
 
 links:
-  - icon: at-symbol
-    url: mailto:lingheng.meng@data61.csiro.au
-    label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.ca/citations?user=ieZQPZEAAAAJ&hl=en
   - icon: brands/github
@@ -41,9 +38,17 @@ interests:
   - Preference Learning (RLHF)
   - Imitation Learning & Inverse RL
   - Robot Learning for Assistive Robotics
+  - Vision-Language-Action (VLA) Models
+  - Sim-to-Real Transfer
   - Interactive & Adaptive Robotic Systems
 
 education:
+  - degree: Visiting PhD Student, Electrical and Computer Systems Engineering
+    institution: Monash University
+    start: 2022-01-01
+    end: 2023-05-01
+    summary: |
+      Continued PhD thesis research. Adviser: Prof. Dana Kulic.
   - degree: PhD Electrical & Computer Engineering
     institution: University of Waterloo
     start: 2017-09-01
@@ -51,7 +56,7 @@ education:
     summary: |
       Thesis: "Learning to Engage: An Application of Deep Reinforcement Learning in Living Architecture Systems."
       Advisors: Prof. Dana Kulic and A/Prof. Rob Gorbet.
-  - degree: M.Eng. Computer Science and Technology
+  - degree: M.Eng. Computer Application Technology
     institution: China University of Mining and Technology
     start: 2014-09-01
     end: 2017-05-29
@@ -67,7 +72,7 @@ education:
 
 experience:
   - role: CERC Postdoctoral Fellow
-    org: CSIRO Data61
+    org: CSIRO Technology
     start: 2024-04-16
     summary: |
       Conducting research in Human-Robot Interaction and Robot Learning.
@@ -85,6 +90,12 @@ experience:
     summary: |
       Robot learning infrastructure at Monash Robotics.
       Supervisors: Prof. Dana Kulic and Dr. Michael Burke.
+  - role: Visitor
+    org: Monash University
+    start: 2023-05-01
+    end: 2023-07-31
+    summary: |
+      Road Safety Innovation Fund project. Host: Prof. Dana Kulic.
   - role: PhD Candidate & Research Assistant
     org: University of Waterloo
     start: 2017-09-01

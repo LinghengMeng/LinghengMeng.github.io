@@ -150,3 +150,10 @@ MIT © 2016-Present [George Cushen](https://georgecushen.com)
 <!--START_SECTION:news-->
 <!--Updated at 2026-02-08T01:28:59.412Z-->
 <!--END_SECTION:news-->
+
+## Related Obsidian vault notes
+
+Plain-text vault-relative paths (this repo is outside the vault, so no wikilinks):
+
+- `Work_Job/Personal_Website_Update_Audit_2026-10-16.md` (content audit and decisions for the 2026-10 update)
+- Public CV source (Overleaf/Dropbox): `D:\Dropbox\Apps\ShareLaTeX\Website_Public_CV_2026-10-16\CV.tex`
